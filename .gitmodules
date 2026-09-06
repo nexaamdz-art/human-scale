@@ -1,0 +1,24 @@
+[submodule "external/open-twin-xr"]
+	path = external/open-twin-xr
+	url = https://github.com/Opening-Science/open-twin-xr.git
+
+[submodule "external/human-anatomy"]
+	path = external/human-anatomy
+	url = https://github.com/pedram-fm/human-anatomy.git
+
+[submodule "external/BodyExplorer"]
+	path = external/BodyExplorer
+	url = https://github.com/JohanBellander/BodyExplorer.git
+
+[submodule "external/Human-Organ3D"]
+	path = external/Human-Organ3D
+	url = https://github.com/yihalem123/Human-Organ3D.git
+
+[submodule "external/Interactive-3D-Human-Heart"]
+	path = external/Interactive-3D-Human-Heart
+	url = https://github.com/simonreisinger/Interactive-3D-Human-Heart-Visualization.git
+
+[submodule "external/ccf-releases"]
+	path = external/ccf-releases
+	url = https://github.com/hubmapconsortium/ccf-releases.git
+
